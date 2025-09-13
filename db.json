@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1756924534769,
+      "name": "Pork",
+      "description": "fried meat",
+      "category": "food",
+      "price": 35,
+      "cost": 20,
+      "quantity": 18,
+      "image": "pork.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 1,
+          "date": "2025-09-12T04:52:33.328Z"
+        },
+        {
+          "type": "deduct",
+          "quantity": 1,
+          "date": "2025-09-13T00:23:57.114Z"
+        },
+        {
+          "type": "deduct",
+          "quantity": 2,
+          "date": "2025-09-13T02:59:06.391Z"
+        }
+      ]
+    },
+    {
+      "id": 1757393271082,
+      "name": "Chicken",
+      "description": "Cooked Meat",
+      "category": "Food",
+      "price": 35,
+      "cost": 18,
+      "quantity": 18,
+      "image": "chick.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757393318342,
+      "name": "Wors",
+      "description": "fried",
+      "category": "Food",
+      "price": 20,
+      "cost": 10,
+      "quantity": 24,
+      "image": "wor.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757393394628,
+      "name": "Vegetable Salad",
+      "description": "Freshly uncooked",
+      "category": "Food",
+      "price": 15,
+      "cost": 8,
+      "quantity": 20,
+      "image": "salad.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757393434067,
+      "name": "Twizza",
+      "description": "Freezy Drink",
+      "category": "Beverage",
+      "price": 14,
+      "cost": 6,
+      "quantity": 48,
+      "image": "twiz.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 1,
+          "date": "2025-09-12T04:53:51.490Z"
+        }
+      ]
+    },
+    {
+      "id": 1757393481717,
+      "name": "Coca-cola",
+      "description": "Freezy Drink",
+      "category": "Beverage",
+      "price": 25,
+      "cost": 12,
+      "quantity": 40,
+      "image": "cola.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757393668879,
+      "name": "Motoho",
+      "description": "Mabele",
+      "category": "Food",
+      "price": 12,
+      "cost": 5,
+      "quantity": 42,
+      "image": "motoho.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 1,
+          "date": "2025-09-12T04:54:24.005Z"
+        }
+      ]
+    },
+    {
+      "id": 1757560206234,
+      "name": "Chinise Food",
+      "description": "soft meal",
+      "category": "food",
+      "price": 15,
+      "cost": 9,
+      "quantity": 27,
+      "image": "chn.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 2,
+          "date": "2025-09-12T04:52:33.333Z"
+        }
+      ]
+    },
+    {
+      "id": 1757655068179,
+      "name": "Nik Naks",
+      "description": "cheese snak",
+      "category": "Snaks",
+      "price": 1.5,
+      "cost": 1,
+      "quantity": 100,
+      "image": "nak.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757655478502,
+      "name": "MarieBiscuits",
+      "description": "Vanilla Cream",
+      "category": "Snak",
+      "price": 14,
+      "cost": 10,
+      "quantity": 70,
+      "image": "marie.webp",
+      "transactions": []
+    },
+    {
+      "id": 1757655791213,
+      "name": "Stambo Pops",
+      "description": "Steets with gum",
+      "category": "Snaks",
+      "price": 2,
+      "cost": 1,
+      "quantity": 33,
+      "image": "pop.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 45,
+          "date": "2025-09-13T02:57:41.240Z"
+        },
+        {
+          "type": "add",
+          "quantity": 30,
+          "date": "2025-09-13T03:00:15.071Z"
+        }
+      ]
+    },
+    {
+      "id": 1757656073615,
+      "name": "Cup Cake",
+      "description": "vanilla and mint",
+      "category": "food",
+      "price": 3,
+      "cost": 1.5,
+      "quantity": 50,
+      "image": "cake.webp",
+      "transactions": [
+        {
+          "type": "deduct",
+          "quantity": 4,
+          "date": "2025-09-12T21:18:27.196Z"
+        },
+        {
+          "type": "deduct",
+          "quantity": 52,
+          "date": "2025-09-12T21:19:01.082Z"
+        },
+        {
+          "type": "deduct",
+          "quantity": 50,
+          "date": "2025-09-13T03:00:41.561Z"
+        },
+        {
+          "type": "add",
+          "quantity": 50,
+          "date": "2025-09-13T03:00:53.688Z"
+        }
+      ]
+    }
+  ],
+  "customers": [],
+  "sales": [
+    {
+      "id": 1757652753405,
+      "productId": 1756924534769,
+      "quantity": 1,
+      "date": "2025-09-12T04:52:33.393Z",
+      "status": "active"
+    },
+    {
+      "id": 1757652753413,
+      "productId": 1757560206234,
+      "quantity": 2,
+      "date": "2025-09-12T04:52:33.397Z",
+      "status": "active"
+    },
+    {
+      "id": 1757652831505,
+      "productId": 1757393434067,
+      "quantity": 1,
+      "date": "2025-09-12T04:53:51.500Z",
+      "status": "active"
+    },
+    {
+      "id": 1757652864021,
+      "productId": 1757393668879,
+      "quantity": 1,
+      "date": "2025-09-12T04:54:24.017Z",
+      "status": "active"
+    },
+    {
+      "id": 1757723037212,
+      "productId": 1756924534769,
+      "quantity": 1,
+      "date": "2025-09-13T00:23:57.194Z",
+      "status": "active"
+    },
+    {
+      "id": 1757732346430,
+      "productId": 1756924534769,
+      "quantity": 2,
+      "date": "2025-09-13T02:59:06.421Z",
+      "status": "active"
+    }
+  ]
+}

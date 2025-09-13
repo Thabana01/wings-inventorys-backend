@@ -11,11 +11,10 @@ app.use(express.json());
 
 // --- Routes ---
 const productRoutes = require("./routes/productRoutes");
-const customerRoutes = require("./routes/customerRoutes");
 const saleRoutes = require("./routes/saleRoutes");
 
+// Removed customerRoutes since it's deleted
 app.use("/api/products", productRoutes);
-app.use("/api/customers", customerRoutes);
 app.use("/api/sales", saleRoutes);
 
 // --- Start server ---

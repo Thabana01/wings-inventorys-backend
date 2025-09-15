@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wings-inventorys/static/css/main.99f6091e.css",
-    "main.js": "/wings-inventorys/static/js/main.ed13756d.js",
+    "main.js": "/wings-inventorys/static/js/main.cd754e6d.js",
     "static/js/453.670e15c7.chunk.js": "/wings-inventorys/static/js/453.670e15c7.chunk.js",
     "index.html": "/wings-inventorys/index.html",
     "main.99f6091e.css.map": "/wings-inventorys/static/css/main.99f6091e.css.map",
-    "main.ed13756d.js.map": "/wings-inventorys/static/js/main.ed13756d.js.map",
+    "main.cd754e6d.js.map": "/wings-inventorys/static/js/main.cd754e6d.js.map",
     "453.670e15c7.chunk.js.map": "/wings-inventorys/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99f6091e.css",
-    "static/js/main.ed13756d.js"
+    "static/js/main.cd754e6d.js"
   ]
 }
